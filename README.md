@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.facebook.com/hisuuuuuuuuu">
+  <a href="https://www.facebook.com/ngovusom">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.instagram.com/hisu.87">
+  <a href="https://www.instagram.com/nowsngv/">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/hisu1104">
+  <a href="https://x.com/SnNgV33">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -22,7 +22,7 @@ I am a Software Developer from Vietnam. <img src="https://media.giphy.com/media/
 - 🔭 I’m working as a Software Engineer contributing to both frontend and backend for web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time, I enjoy solving problems on GeeksforGeeks and reading tech articles.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hisu87-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hisu87/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hisu87-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/hisu87/](https://www.linkedin.com/in/s%C6%A1n-ng%C3%B4-v%C5%A9-6aa137327/))
 
 ---
 
@@ -55,16 +55,16 @@ I am a Software Developer from Vietnam. <img src="https://media.giphy.com/media/
 
 ### 😊 About Me:
 
-**hisu87/Hisu87** is a special repository because its `README.md` file appears on your GitHub profile.
+**Sown Wolf** is a special repository because its `README.md` file appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 # Hi there 👋
-## I'm Hieu, a Fresher Software Developer
+## I'm Sown, a Intern Software Developer
 - 🌱 Currently studying at FPT Polytechnic College.
 - 🔭 Working on... nothing much at the moment!
 - 🌱 Learning Java and React.
 - 👯 Looking to collaborate on exciting projects.
 - 🤔 Seeking assistance with securing an internship in Ho Chi Minh City.
 - 💬 Feel free to ask me about anything.
-- 📫 How to reach me: hisu0807@outlook.com
+- 📫 How to reach me: sonv19996@gmail.com
