@@ -22,7 +22,7 @@ I am a Software Developer from Vietnam. <img src="https://media.giphy.com/media/
 - 🔭 I’m working as a Software Engineer contributing to both frontend and backend for web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time, I enjoy solving problems on GeeksforGeeks and reading tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hisu87-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/hisu87/](https://www.linkedin.com/in/s%C6%A1n-ng%C3%B4-v%C5%A9-6aa137327/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hisu87-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/s%C6%A1n-ng%C3%B4-v%C5%A9-6aa137327/))
 
 ---
 
