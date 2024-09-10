@@ -47,7 +47,6 @@ I am a Software Developer from Vietnam. <img src="https://media.giphy.com/media/
 
 ---
 
-### 🔥 My Stats:
 
 
 ### 😊 About Me:
